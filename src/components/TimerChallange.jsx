@@ -1,6 +1,5 @@
 import { useRef, useState } from "react";
 import ResultModal from "./ResultModal";
-
 export default function TimerChallange({ title, targetTime }) {
     // const [timerStarted, setTimerStarted] = useState(false);
     // const [timerExpired, setTimerExpired] = useState(false);
